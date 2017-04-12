@@ -1,0 +1,5 @@
+package: github.com/ki38sato/env-awsps
+import:
+  - package: github.com/mkideal/cli
+  - package: github.com/aws/aws-sdk-go
+    version: ^v1.8.11
